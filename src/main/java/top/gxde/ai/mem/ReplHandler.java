@@ -1,4 +1,4 @@
-package top.gxde.ai;
+package top.gxde.ai.mem;
 
 import java.util.Scanner;
 

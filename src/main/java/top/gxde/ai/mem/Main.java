@@ -1,4 +1,4 @@
-package top.gxde.ai;
+package top.gxde.ai.mem;
 
 /**
  * Main entry of GXDE AI Core Memory Management
